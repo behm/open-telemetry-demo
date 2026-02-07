@@ -6,7 +6,7 @@ This repo is an example of using OpenTelemetry in .NET.  I am build this as a re
 
 ## Application Architecture
 
-This repo will create a system to demonstrate the use of OpenTelemetry.  The architecture diagram can be seen here.
+This repo will create a system to demonstrate the use of OpenTelemetry.  The architecture diagram [can be seen here](notes/system-architecture.md).
 
 ## Resources
 
